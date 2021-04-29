@@ -32,6 +32,14 @@
     "Warning": " "
   },
   {
+    "Name": "Fullscreen",
+    "Parameter": " -fullscreen",
+    "Description": "Loads game in fullscreen mode.",
+    "Value": null,
+    "CanHaveValue": false,
+    "Warning": " "
+  },
+  {
     "Name": "Windowed",
     "Parameter": " -windowed",
     "Description": "Loads game in windowed mode.",
